@@ -1,1 +1,2 @@
-# FPGrowth
+# FPGrowth Algorithm
+This project shows how we used Python to construct the FPGrowth algorithm on 20 Benchmark test datasets. We have given a full description of our implementation, as well as a simple illustrative example, to validate our results and outcomes from using large benchmark datasets. We also incorporated the algorithm's performance based on the efficient use of computer memory and execution time across huge test datasets
